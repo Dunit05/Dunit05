@@ -2,4 +2,4 @@
 - 👀 I’m interested in full stack developemt 
 - 🌱 I’m currently learning React.js and other frameworks
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me on instagram @tdm0302
+- 📫 You can reach me on instagram @tdm0302
