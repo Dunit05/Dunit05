@@ -2,5 +2,5 @@
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning React.js and various other frontend tech stacks
 - 💞️ I’m looking to collaborate on anything
-- 📫 You can reach me on Instagram @tdm0302 or @tdmwebsolution
+- 📫 You can reach me on Instagram @tdm0302 or @tdmwebsolutions
 - 💻 You can also look into my business at tdmwebsolutions.com
