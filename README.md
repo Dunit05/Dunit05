@@ -5,3 +5,4 @@
 - 🚀 Currently working on my SaaS startup "CampaignCompass"
 - 📫 You can reach me on Instagram @tdm0302 or @tdmwebsolutions
 - 💻 You can also look into my business at tdmwebsolutions.com
+- 📨 Connect with me on Linkedin; here: https://www.linkedin.com/in/tommydmichailidis/
