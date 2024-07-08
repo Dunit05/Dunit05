@@ -2,7 +2,6 @@
 - 👀 I’m interested in full-stack development
 - 🌱 I’m currently learning/using React.js (Next.js) and various other frontend tech stacks
 - 💞️ I’m looking to collaborate on anything
-- 🚀 Currently working on my SaaS startup "CampaignCompass"
 - 📫 You can reach me on Instagram @tdm0302 or @tdmwebsolutions
 - 💻 You can also look into my business at tdmwebsolutions.com
 - 📨 Connect with me on Linkedin; here: https://www.linkedin.com/in/tommydmichailidis/
